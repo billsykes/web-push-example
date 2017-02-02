@@ -1,0 +1,7 @@
+{
+  "name": "Web Push Example",
+  "short_name": "webpush example",
+  "start_url": "/index.html",
+  "display": "standalone", 
+  "gcm_sender_id": "<your GCM ID>"
+}
